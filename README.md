@@ -1,1 +1,1 @@
-This ia a frontend based SPOTICY CLONE
+This ia a frontend based SPOTIFY CLONE
